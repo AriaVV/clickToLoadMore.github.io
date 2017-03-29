@@ -31,7 +31,7 @@
 	</div>
 
 最终效果图
- <img src="/img/articleImg/clickMore01.png"/>
+ <img src="./images/main/clickMore01.png"/>
 
 ### css样式
 css样式初始化
@@ -150,4 +150,4 @@ index.html样式
 
 ### 完整的html结构
 
-<img src="/img/articleImg/clickMore02.png"/>
+<img src="./images/main/clickMore02.png"/>
