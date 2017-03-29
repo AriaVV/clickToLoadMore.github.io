@@ -1,0 +1,21 @@
+.movie{padding-top:50px;padding-bottom:40px;width: 100%;background-color:#f7f7f7;}
+.movie .classify1{float:left;width: 120px;}
+.movie .title{font-size:18px;color:#0089af;font-weight:900;}
+.movie .con{margin-top:15px;}
+.movie .con li{height:30px;line-height:30px;}
+.movie .con li a{color:#2297cc;}
+.movie .clsDetail{float:left;width: 535px;}
+.clsDetail .tit,.classify2 .tit{height: 1px;line-height:1px;margin-bottom:20px;}
+.listItem{display:inline-block;width: 100%;padding-left:10px;}
+.listItem img{width: 100px;height: 145px;}
+.listItem .item{margin:20px 12px;display:inline-block;width: 100px;text-align:center;font-size:14px;}
+.listItem .name{margin-bottom:10px;margin-top:10px;color:#333;}
+.listItem .score{color:#ffac2d;}
+.in_more{display:block;margin:0 auto; width: 220px;height: 40px;line-height:40px;text-align:center;background-color:#1c8bd0;color:#fff;margin-top:30px;}
+.in_more i{vertical-align:middle;display: inline-block;margin-right:20px;width: 25px;height: 25px;background: url(../images/main/loading.gif) no-repeat;background-size:contain;}
+
+
+
+
+
+
